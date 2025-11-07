@@ -12,7 +12,7 @@ import logging
 import requests
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from typing import List, Set, Dict
+from typing import List, Set, Dict, Any
 from urllib.parse import urlparse
 
 # Configure logging
@@ -80,7 +80,7 @@ def scrape_proxies() -> Set[str]:
     return proxies
 
 
-def check_proxy(proxy: str) -> Dict[str, any]:
+def check_proxy(proxy: str) -> Dict[str, Any]:
     """
     Check if a proxy is working
     Returns dict with proxy info if working, None if not
@@ -171,7 +171,7 @@ def update_readme_timestamp():
         
         # Get current timestamp
         now = datetime.now()
-        timestamp = now.strftime("%H:%M:%S / %d:%m:%Y")
+        timestamp = now.strftime("%H:%M:%S / %d-%m-%Y")
         
         # Update timestamp line
         updated_content = re.sub(
