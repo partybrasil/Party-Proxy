@@ -25,23 +25,85 @@ logger = logging.getLogger(__name__)
 # Constants
 OUTPUT_DIR = "output"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "active_proxies.txt")
-TIMEOUT = 10  # seconds for proxy check
-MAX_WORKERS = 50  # concurrent threads for checking
+TIMEOUT = 5  # seconds for proxy check
+MAX_WORKERS = 999  # concurrent threads for checking
 CHECK_URL = "http://www.google.com"
 CHECK_URL_HTTPS = "https://www.google.com"
 
 # Proxy sources - free public proxy lists
 PROXY_SOURCES = [
+    # HTTP
     "https://api.proxyscrape.com/v2/?request=get&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all",
-    "https://api.proxyscrape.com/v2/?request=get&protocol=socks4&timeout=10000&country=all",
-    "https://api.proxyscrape.com/v2/?request=get&protocol=socks5&timeout=10000&country=all",
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/http/data.txt",
+    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt",
+    "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/http.txt",
+    "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/http.txt",
+    "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/http_proxies.txt",
+    "https://raw.githubusercontent.com/mzyui/proxy-list/main/http.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/http.txt",
+    "https://raw.githubusercontent.com/elliottophellia/proxylist/master/results/http/global/http_checked.txt",
+    "https://raw.githubusercontent.com/zloi-user/hideip.me/master/http.txt",
+    "https://raw.githubusercontent.com/dpangestuw/Free-Proxy/main/http_proxies.txt",
+    "https://raw.githubusercontent.com/casa-ls/proxy-list/main/http",
+    "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt",
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
-    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt",
+
+    # HTTPS
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/https/data.txt",
+    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/https.txt",
+    "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/https.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/https.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt",
+    "https://raw.githubusercontent.com/zloi-user/hideip.me/master/https.txt",
+    "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/https.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt",
+
+    # SOCKS4
+    "https://api.proxyscrape.com/v2/?request=get&protocol=socks4&timeout=10000&country=all",
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks4/data.txt",
+    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks4.txt",
+    "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks4.txt",
+    "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks4.txt",
+    "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/socks4_proxies.txt",
+    "https://raw.githubusercontent.com/mzyui/proxy-list/main/socks4.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks4.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt",
+    "https://raw.githubusercontent.com/elliottophellia/proxylist/master/results/socks4/global/socks4_checked.txt",
+    "https://raw.githubusercontent.com/zloi-user/hideip.me/master/socks4.txt",
+    "https://raw.githubusercontent.com/dpangestuw/Free-Proxy/main/socks4_proxies.txt",
+    "https://raw.githubusercontent.com/casa-ls/proxy-list/main/socks4",
+    "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/socks4.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt",
+
+    # SOCKS5
+    "https://api.proxyscrape.com/v2/?request=get&protocol=socks5&timeout=10000&country=all",
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt",
+    "https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt",
+    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks5.txt",
+    "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks5.txt",
+    "https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt",
+    "https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/generated/socks5_proxies.txt",
+    "https://raw.githubusercontent.com/mzyui/proxy-list/main/socks5.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/socks5.txt",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt",
+    "https://raw.githubusercontent.com/elliottophellia/proxylist/master/results/socks5/global/socks5_checked.txt",
+    "https://raw.githubusercontent.com/zloi-user/hideip.me/master/socks5.txt",
+    "https://raw.githubusercontent.com/dpangestuw/Free-Proxy/main/socks5_proxies.txt",
+    "https://raw.githubusercontent.com/casa-ls/proxy-list/main/socks5",
+    "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/socks5.txt",
+    "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt",
     "https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt",
+
+    # MIX
+    "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/all/data.txt",
+    "https://raw.githubusercontent.com/mmpx12/proxy-list/master/proxies.txt",
+    "https://raw.githubusercontent.com/mzyui/proxy-list/main/all.txt",
+    "https://raw.githubusercontent.com/vakhov/fresh-proxy-list/master/proxylist.txt",
+    "https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt",
+    "https://raw.githubusercontent.com/gitrecon1455/fresh-proxy-list/main/proxylist.txt",
+    "https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/unknown.txt",
 ]
 
 
