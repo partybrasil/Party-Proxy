@@ -2,7 +2,7 @@
 
 *Gestión automatizada y simple de proxys gratuitos con CLI y GitHub Actions*
 
-**⏰ Última actualización:** 13:37:40 / 19-11-2025
+**⏰ Última actualización:** 13:53:56 / 19-11-2025
 
 ---
 
