@@ -2,7 +2,7 @@ name: Party-Proxy Scrape & Check
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
+    - cron: '0 */12 * * *'  # Every 15 minutes
   workflow_dispatch:  # Allow manual trigger
 
 jobs:
