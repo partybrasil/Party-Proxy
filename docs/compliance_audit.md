@@ -198,7 +198,7 @@ headers = {'User-Agent': 'Party-Proxy/1.0 (https://github.com/partybrasil/Party-
 # ANTES
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Every 12 horas
+    - cron: '0 */12 * * *'  # Cada 12 horas
   workflow_dispatch:
 
 # DESPUÉS
