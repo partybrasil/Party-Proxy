@@ -182,9 +182,9 @@ headers = {'User-Agent': 'Party-Proxy/1.0 (https://github.com/partybrasil/Party-
 
 | Plan | Minutos Incluidos | Uso Estimado | Margen |
 |------|-------------------|--------------|--------|
-| GitHub Free | 2,000 min/mes | ~750 min/mes | 62.5% disponible |
-| GitHub Pro | 3,000 min/mes | ~750 min/mes | 75% disponible |
-| GitHub Team | 3,000 min/mes | ~750 min/mes | 75% disponible |
+| GitHub Free | 2,000 min/mes | ~600-900 min/mes | 55-70% disponible |
+| GitHub Pro | 3,000 min/mes | ~600-900 min/mes | 70-80% disponible |
+| GitHub Team | 3,000 min/mes | ~600-900 min/mes | 70-80% disponible |
 
 **Reducción de consumo:** ~50% menos minutos consumidos con la nueva cadencia.
 
