@@ -2,12 +2,17 @@ name: Party-Proxy Scrape & Check
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Every 12 horas
+    - cron: '0 0 * * *'  # Cada 24 horas a las 00:00 UTC
   workflow_dispatch:  # Allow manual trigger
+
+concurrency:
+  group: party-proxy-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   scrape_and_check:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     permissions:
       contents: write
     
