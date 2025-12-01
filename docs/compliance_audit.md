@@ -23,7 +23,7 @@ Se ha realizado una auditoría completa del repositorio Party-Proxy para verific
 | **Severidad** | Media |
 | **Archivo** | `party_proxy.py` |
 | **Línea** | 29 |
-| **Evidencia** | `MAX_WORKERS = 999` |
+| **Evidencia** | `MAX_WORKERS = 999` / `Ahora MAX_WORKERS = 100`|
 
 **Impacto:** La configuración de 999 workers concurrentes puede generar:
 - Alto consumo de recursos en el runner de GitHub Actions
@@ -37,6 +37,7 @@ Se ha realizado una auditoría completa del repositorio Party-Proxy para verific
 2. Google tiene alta capacidad de manejo de tráfico
 3. El timeout de 5 segundos limita el impacto
 
+**Estado UPDATED:** Cambio manual para 100 max workers [marco temporal para ver resultados/tiempo/consumo de actions]
 ---
 
 ### Hallazgo #2: Ausencia de User-Agent Explícito

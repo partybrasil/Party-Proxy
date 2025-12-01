@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 OUTPUT_DIR = "output"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "active_proxies.txt")
 TIMEOUT = 5  # seconds for proxy check
-MAX_WORKERS = 999  # concurrent threads for checking
+MAX_WORKERS = 100  # concurrent threads for checking
 CHECK_URL = "http://www.google.com"
 CHECK_URL_HTTPS = "https://www.google.com"
 
