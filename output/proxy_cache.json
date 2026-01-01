@@ -1,0 +1,875 @@
+[
+  {
+    "proxy": "91.222.238.112:80",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Elite",
+    "latency": 308.67,
+    "last_check": "2026-01-01T20:57:46.132584"
+  },
+  {
+    "proxy": "88.99.226.179:8080",
+    "status": "checking",
+    "country": "Germany",
+    "countryCode": "DE",
+    "privacy": "Unknown",
+    "latency": 294.64,
+    "last_check": "2026-01-01T20:57:39.651144"
+  },
+  {
+    "proxy": "85.214.52.27:80",
+    "status": "active",
+    "country": "Germany",
+    "countryCode": "DE",
+    "privacy": "Unknown",
+    "latency": 206.18,
+    "last_check": "2026-01-01T20:58:04.402132"
+  },
+  {
+    "proxy": "85.208.20.82:80",
+    "status": "checking",
+    "country": "Spain",
+    "countryCode": "ES",
+    "privacy": "Unknown",
+    "latency": 503.79,
+    "last_check": "2026-01-01T20:57:36.236169"
+  },
+  {
+    "proxy": "85.117.56.151:8080",
+    "status": "active",
+    "country": "Georgia",
+    "countryCode": "GE",
+    "privacy": "Unknown",
+    "latency": 1222.44,
+    "last_check": "2026-01-01T20:58:06.282969"
+  },
+  {
+    "proxy": "8.215.15.163:111",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 4115.12,
+    "last_check": "2026-01-01T20:57:59.912012"
+  },
+  {
+    "proxy": "8.215.12.103:8447",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 7704.26,
+    "last_check": "2026-01-01T20:57:42.518498"
+  },
+  {
+    "proxy": "8.209.249.96:8118",
+    "status": "checking",
+    "country": "Japan",
+    "countryCode": "JP",
+    "privacy": "Unknown",
+    "latency": 4549.72,
+    "last_check": "2026-01-01T20:57:38.724518"
+  },
+  {
+    "proxy": "8.138.125.130:9098",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 3916.85,
+    "last_check": "2026-01-01T20:57:47.977316"
+  },
+  {
+    "proxy": "8.137.62.53:8080",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4145.61,
+    "last_check": "2026-01-01T20:57:59.206361"
+  },
+  {
+    "proxy": "8.130.90.177:8081",
+    "status": "active",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4088.08,
+    "last_check": "2026-01-01T20:58:04.330959"
+  },
+  {
+    "proxy": "8.130.74.114:80",
+    "status": "active",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4180.77,
+    "last_check": "2026-01-01T20:58:03.491151"
+  },
+  {
+    "proxy": "78.46.133.187:80",
+    "status": "checking",
+    "country": "Germany",
+    "countryCode": "DE",
+    "privacy": "Unknown",
+    "latency": 571.5,
+    "last_check": "2026-01-01T20:57:36.649741"
+  },
+  {
+    "proxy": "72.10.164.178:22127",
+    "status": "checking",
+    "country": "Canada",
+    "countryCode": "CA",
+    "privacy": "Elite",
+    "latency": 685.15,
+    "last_check": "2026-01-01T20:57:34.288631"
+  },
+  {
+    "proxy": "68.183.15.169:80",
+    "status": "checking",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "privacy": "Unknown",
+    "latency": 185.2,
+    "last_check": "2026-01-01T20:57:39.931468"
+  },
+  {
+    "proxy": "66.45.237.230:80",
+    "status": "active",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 467.21,
+    "last_check": "2026-01-01T20:58:07.944189"
+  },
+  {
+    "proxy": "61.7.138.161:80",
+    "status": "checking",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "privacy": "Unknown",
+    "latency": 1777.32,
+    "last_check": "2026-01-01T20:57:57.110166"
+  },
+  {
+    "proxy": "61.180.16.46:80",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 2973.69,
+    "last_check": "2026-01-01T20:57:42.423251"
+  },
+  {
+    "proxy": "54.180.143.12:9141",
+    "status": "active",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "privacy": "Unknown",
+    "latency": 6396.08,
+    "last_check": "2026-01-01T20:58:14.852708"
+  },
+  {
+    "proxy": "52.38.230.247:3128",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 1231.25,
+    "last_check": "2026-01-01T20:57:46.708239"
+  },
+  {
+    "proxy": "50.114.33.95:8080",
+    "status": "checking",
+    "country": "Cambodia",
+    "countryCode": "KH",
+    "privacy": "Unknown",
+    "latency": 535.33,
+    "last_check": "2026-01-01T20:57:34.669565"
+  },
+  {
+    "proxy": "5.196.14.35:5000",
+    "status": "checking",
+    "country": "France",
+    "countryCode": "FR",
+    "privacy": "Unknown",
+    "latency": 188.26,
+    "last_check": "2026-01-01T20:57:43.803842"
+  },
+  {
+    "proxy": "5.182.34.230:80",
+    "status": "checking",
+    "country": "Italy",
+    "countryCode": "IT",
+    "privacy": "Unknown",
+    "latency": 332.99,
+    "last_check": "2026-01-01T20:57:59.155828"
+  },
+  {
+    "proxy": "49.0.251.56:8084",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4414.93,
+    "last_check": "2026-01-01T20:57:52.094813"
+  },
+  {
+    "proxy": "49.0.199.132:8089",
+    "status": "checking",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "privacy": "Unknown",
+    "latency": 4585.71,
+    "last_check": "2026-01-01T20:57:57.582359"
+  },
+  {
+    "proxy": "47.92.242.45:8999",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4741.88,
+    "last_check": "2026-01-01T20:57:43.752140"
+  },
+  {
+    "proxy": "47.88.11.3:3129",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4487.45,
+    "last_check": "2026-01-01T20:57:43.169947"
+  },
+  {
+    "proxy": "47.76.144.139:5060",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 3209.51,
+    "last_check": "2026-01-01T20:57:46.708908"
+  },
+  {
+    "proxy": "47.74.26.131:80",
+    "status": "checking",
+    "country": "Japan",
+    "countryCode": "JP",
+    "privacy": "Unknown",
+    "latency": 826.68,
+    "last_check": "2026-01-01T20:57:39.588967"
+  },
+  {
+    "proxy": "47.253.71.33:55443",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4244.34,
+    "last_check": "2026-01-01T20:57:51.143965"
+  },
+  {
+    "proxy": "47.243.50.83:3128",
+    "status": "checking",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "privacy": "Unknown",
+    "latency": 4793.14,
+    "last_check": "2026-01-01T20:57:41.517568"
+  },
+  {
+    "proxy": "47.237.113.119:4145",
+    "status": "checking",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "privacy": "Unknown",
+    "latency": 3077.67,
+    "last_check": "2026-01-01T20:57:58.791266"
+  },
+  {
+    "proxy": "47.237.107.41:808",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4678.63,
+    "last_check": "2026-01-01T20:57:40.840830"
+  },
+  {
+    "proxy": "47.121.182.36:10000",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4042.9,
+    "last_check": "2026-01-01T20:57:59.194978"
+  },
+  {
+    "proxy": "47.119.22.156:80",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4409.09,
+    "last_check": "2026-01-01T20:57:56.974673"
+  },
+  {
+    "proxy": "47.106.216.202:3129",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Elite",
+    "latency": 3949.87,
+    "last_check": "2026-01-01T20:57:49.640746"
+  },
+  {
+    "proxy": "47.106.198.144:8090",
+    "status": "active",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 3913.62,
+    "last_check": "2026-01-01T20:58:09.005697"
+  },
+  {
+    "proxy": "45.56.83.46:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 365.94,
+    "last_check": "2026-01-01T20:57:34.279005"
+  },
+  {
+    "proxy": "45.4.55.40:80",
+    "status": "active",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 962.14,
+    "last_check": "2026-01-01T20:58:12.197558"
+  },
+  {
+    "proxy": "45.14.224.247:80",
+    "status": "active",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "privacy": "Unknown",
+    "latency": 241.29,
+    "last_check": "2026-01-01T20:58:03.841976"
+  },
+  {
+    "proxy": "43.216.1.13:9746",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 2848.33,
+    "last_check": "2026-01-01T20:57:42.026550"
+  },
+  {
+    "proxy": "43.216.1.13:592",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 2968.54,
+    "last_check": "2026-01-01T20:57:41.912272"
+  },
+  {
+    "proxy": "43.135.154.130:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 407.91,
+    "last_check": "2026-01-01T20:57:49.010493"
+  },
+  {
+    "proxy": "41.220.25.246:80",
+    "status": "checking",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "privacy": "Unknown",
+    "latency": 733.77,
+    "last_check": "2026-01-01T20:57:59.037382"
+  },
+  {
+    "proxy": "41.216.186.145:8080",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 450.46,
+    "last_check": "2026-01-01T20:57:44.515837"
+  },
+  {
+    "proxy": "39.104.79.145:1234",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4773.48,
+    "last_check": "2026-01-01T20:57:43.623224"
+  },
+  {
+    "proxy": "39.104.59.56:9098",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4843.4,
+    "last_check": "2026-01-01T20:57:38.529563"
+  },
+  {
+    "proxy": "39.104.57.170:3000",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4800.17,
+    "last_check": "2026-01-01T20:57:45.219834"
+  },
+  {
+    "proxy": "39.102.209.121:8081",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 6204.65,
+    "last_check": "2026-01-01T20:58:00.687603"
+  },
+  {
+    "proxy": "39.102.208.23:10002",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4373.58,
+    "last_check": "2026-01-01T20:58:00.500586"
+  },
+  {
+    "proxy": "37.152.183.46:80",
+    "status": "checking",
+    "country": "Iran",
+    "countryCode": "IR",
+    "privacy": "Unknown",
+    "latency": 431.14,
+    "last_check": "2026-01-01T20:57:59.440663"
+  },
+  {
+    "proxy": "36.67.136.27:5678",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 1230.6,
+    "last_check": "2026-01-01T20:57:41.515223"
+  },
+  {
+    "proxy": "35.226.145.41:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 1211.93,
+    "last_check": "2026-01-01T20:57:40.072344"
+  },
+  {
+    "proxy": "34.101.62.47:80",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 647.86,
+    "last_check": "2026-01-01T20:57:35.464612"
+  },
+  {
+    "proxy": "3.137.167.45:1080",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 845.17,
+    "last_check": "2026-01-01T20:57:46.193237"
+  },
+  {
+    "proxy": "212.114.194.74:80",
+    "status": "checking",
+    "country": "Germany",
+    "countryCode": "DE",
+    "privacy": "Elite",
+    "latency": 553.31,
+    "last_check": "2026-01-01T20:57:53.946134"
+  },
+  {
+    "proxy": "212.1.214.107:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 401.38,
+    "last_check": "2026-01-01T20:58:03.050481"
+  },
+  {
+    "proxy": "195.120.185.218:80",
+    "status": "checking",
+    "country": "Italy",
+    "countryCode": "IT",
+    "privacy": "Unknown",
+    "latency": 146.35,
+    "last_check": "2026-01-01T20:57:33.476181"
+  },
+  {
+    "proxy": "194.153.227.2:80",
+    "status": "checking",
+    "country": "Romania",
+    "countryCode": "RO",
+    "privacy": "Unknown",
+    "latency": 230.67,
+    "last_check": "2026-01-01T20:57:42.980579"
+  },
+  {
+    "proxy": "193.108.118.37:80",
+    "status": "checking",
+    "country": "Germany",
+    "countryCode": "DE",
+    "privacy": "Unknown",
+    "latency": 96.79,
+    "last_check": "2026-01-01T20:57:52.918819"
+  },
+  {
+    "proxy": "192.241.151.232:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 261.41,
+    "last_check": "2026-01-01T20:57:42.956872"
+  },
+  {
+    "proxy": "188.166.175.238:80",
+    "status": "active",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "privacy": "Unknown",
+    "latency": 241.57,
+    "last_check": "2026-01-01T20:58:03.936824"
+  },
+  {
+    "proxy": "185.202.59.66:3128",
+    "status": "active",
+    "country": "Iran",
+    "countryCode": "IR",
+    "privacy": "Elite",
+    "latency": 2551.45,
+    "last_check": "2026-01-01T20:58:05.036511"
+  },
+  {
+    "proxy": "178.21.131.68:80",
+    "status": "active",
+    "country": "Norway",
+    "countryCode": "NO",
+    "privacy": "Unknown",
+    "latency": 158.81,
+    "last_check": "2026-01-01T20:58:07.192639"
+  },
+  {
+    "proxy": "176.126.250.254:80",
+    "status": "checking",
+    "country": "Poland",
+    "countryCode": "PL",
+    "privacy": "Unknown",
+    "latency": 342.43,
+    "last_check": "2026-01-01T20:57:35.022057"
+  },
+  {
+    "proxy": "173.236.245.69:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 239.32,
+    "last_check": "2026-01-01T20:57:57.958745"
+  },
+  {
+    "proxy": "172.105.197.49:80",
+    "status": "checking",
+    "country": "Japan",
+    "countryCode": "JP",
+    "privacy": "Unknown",
+    "latency": 559.72,
+    "last_check": "2026-01-01T20:57:53.855453"
+  },
+  {
+    "proxy": "164.163.42.15:10000",
+    "status": "checking",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "privacy": "Unknown",
+    "latency": 868.85,
+    "last_check": "2026-01-01T20:58:01.200144"
+  },
+  {
+    "proxy": "162.222.207.221:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 434.03,
+    "last_check": "2026-01-01T20:57:41.910272"
+  },
+  {
+    "proxy": "161.53.186.169:80",
+    "status": "checking",
+    "country": "Croatia",
+    "countryCode": "HR",
+    "privacy": "Unknown",
+    "latency": 907.02,
+    "last_check": "2026-01-01T20:57:39.799026"
+  },
+  {
+    "proxy": "16.78.82.73:10577",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 9361.89,
+    "last_check": "2026-01-01T20:57:53.905824"
+  },
+  {
+    "proxy": "159.203.56.70:8080",
+    "status": "checking",
+    "country": "Canada",
+    "countryCode": "CA",
+    "privacy": "Unknown",
+    "latency": 237.26,
+    "last_check": "2026-01-01T20:57:33.686905"
+  },
+  {
+    "proxy": "154.214.80.53:80",
+    "status": "checking",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "privacy": "Unknown",
+    "latency": 506.33,
+    "last_check": "2026-01-01T20:57:57.521151"
+  },
+  {
+    "proxy": "154.16.146.46:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Elite",
+    "latency": 999.21,
+    "last_check": "2026-01-01T20:57:40.819643"
+  },
+  {
+    "proxy": "154.16.146.41:80",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Elite",
+    "latency": 913.1,
+    "last_check": "2026-01-01T20:57:56.131948"
+  },
+  {
+    "proxy": "149.129.255.179:8888",
+    "status": "active",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 8729.02,
+    "last_check": "2026-01-01T20:58:08.947741"
+  },
+  {
+    "proxy": "147.139.164.26:80",
+    "status": "active",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 4473.08,
+    "last_check": "2026-01-01T20:58:09.939507"
+  },
+  {
+    "proxy": "141.0.11.244:80",
+    "status": "checking",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "privacy": "Unknown",
+    "latency": 1155.56,
+    "last_check": "2026-01-01T20:57:40.791790"
+  },
+  {
+    "proxy": "141.0.11.241:80",
+    "status": "checking",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "privacy": "Unknown",
+    "latency": 893.52,
+    "last_check": "2026-01-01T20:57:37.683350"
+  },
+  {
+    "proxy": "139.224.195.153:8082",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 4059.31,
+    "last_check": "2026-01-01T20:57:52.187855"
+  },
+  {
+    "proxy": "139.224.186.221:7878",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 5390.24,
+    "last_check": "2026-01-01T20:57:47.851805"
+  },
+  {
+    "proxy": "138.197.112.162:80",
+    "status": "active",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 535.73,
+    "last_check": "2026-01-01T20:58:03.963309"
+  },
+  {
+    "proxy": "138.117.4.45:80",
+    "status": "active",
+    "country": "Nicaragua",
+    "countryCode": "NI",
+    "privacy": "Unknown",
+    "latency": 1721.73,
+    "last_check": "2026-01-01T20:58:04.630430"
+  },
+  {
+    "proxy": "135.125.206.241:80",
+    "status": "checking",
+    "country": "Germany",
+    "countryCode": "DE",
+    "privacy": "Unknown",
+    "latency": 111.46,
+    "last_check": "2026-01-01T20:57:52.571354"
+  },
+  {
+    "proxy": "13.232.2.142:20000",
+    "status": "active",
+    "country": "India",
+    "countryCode": "IN",
+    "privacy": "Unknown",
+    "latency": 6803.84,
+    "last_check": "2026-01-01T20:58:05.803302"
+  },
+  {
+    "proxy": "121.43.146.222:8081",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 5529.27,
+    "last_check": "2026-01-01T20:57:59.737072"
+  },
+  {
+    "proxy": "12.50.107.219:80",
+    "status": "active",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 585.06,
+    "last_check": "2026-01-01T20:58:13.378317"
+  },
+  {
+    "proxy": "115.29.46.51:80",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 885.63,
+    "last_check": "2026-01-01T20:57:58.611555"
+  },
+  {
+    "proxy": "115.28.137.244:80",
+    "status": "checking",
+    "country": "China",
+    "countryCode": "CN",
+    "privacy": "Unknown",
+    "latency": 716.24,
+    "last_check": "2026-01-01T20:57:57.991677"
+  },
+  {
+    "proxy": "112.213.97.68:80",
+    "status": "checking",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "privacy": "Unknown",
+    "latency": 1068.37,
+    "last_check": "2026-01-01T20:57:41.516005"
+  },
+  {
+    "proxy": "110.238.111.229:6789",
+    "status": "checking",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "privacy": "Unknown",
+    "latency": 4480.69,
+    "last_check": "2026-01-01T20:57:38.536737"
+  },
+  {
+    "proxy": "109.191.2.46:1080",
+    "status": "checking",
+    "country": "Russia",
+    "countryCode": "RU",
+    "privacy": "Unknown",
+    "latency": 321.81,
+    "last_check": "2026-01-01T20:58:02.260947"
+  },
+  {
+    "proxy": "104.248.191.18:10260",
+    "status": "checking",
+    "country": "United States",
+    "countryCode": "US",
+    "privacy": "Unknown",
+    "latency": 1688.76,
+    "last_check": "2026-01-01T20:58:02.787178"
+  },
+  {
+    "proxy": "103.9.207.117:8080",
+    "status": "checking",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "privacy": "Elite",
+    "latency": 1929.18,
+    "last_check": "2026-01-01T20:57:42.291985"
+  },
+  {
+    "proxy": "103.165.123.106:80",
+    "status": "checking",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "privacy": "Unknown",
+    "latency": 548.32,
+    "last_check": "2026-01-01T20:57:59.670440"
+  },
+  {
+    "proxy": "103.156.75.213:8091",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 1296.43,
+    "last_check": "2026-01-01T20:57:42.532144"
+  },
+  {
+    "proxy": "101.132.248.7:3129",
+    "status": "checking",
+    "country": "Unknown",
+    "countryCode": "??",
+    "privacy": "Unknown",
+    "latency": 3832.31,
+    "last_check": "2026-01-01T20:57:42.683772"
+  }
+]

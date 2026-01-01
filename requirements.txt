@@ -3,3 +3,5 @@ aiohttp==3.13.2
 pysocks==1.7.1
 beautifulsoup4==4.14.2
 lxml==6.0.2
+PySide6
+matplotlib
